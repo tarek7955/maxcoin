@@ -1,0 +1,2 @@
+[13-Mar-2019 12:25:12 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qdslabco/public_html/wp/common/lib.php on line 33
+[14-Mar-2019 07:31:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/qdslabco/public_html/wp/common/lib.php on line 33
